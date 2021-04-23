@@ -6,15 +6,16 @@ The participants will fork your challenge repository at the beginning of the hac
 
 ## Challenge Aim
 
-The aim of this challenge is to predict adenine amino acid count. You are given a FASTA file using the `--infile` argument. For each protein, output your prediction for the number adenine amino acids in that protein. 
+The aim of this challenge is to predict heavy and light chain antibody pairing. You are given a CSV file using the `--infile` argument, with the columns Hchain for heavy chain sequences and Lchain for light chain sequences. For each set of heavy and light chain, your output prediction needs to be a value between 0 and 1. 
 
 ### Example Output
 You code should output a file called `predictions.csv` in the following format:
 
 ```
 name,prediction
-prot1,2
-prot2,6
+prot1,.21
+prot2,.76
+...
 ```
 
 ## Benchmarking System
