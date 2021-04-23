@@ -1,4 +1,4 @@
-# Example Challenge
+# Prediction of heavy and light chain antibody pairing
 
 Fork this challenge repository as a starting template at the beginning of the hackathon.
 
