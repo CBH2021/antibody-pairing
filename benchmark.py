@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, roc_auc_score
 
 def benchmark(predictions_csv, targets_csv):
     
-    predictions = pd.read_csv(predictions_file)['prediction']
+    predictions = pd.read_csv(predictions_csv)['prediction']
     targets = pd.read_csv(targets_csv)['target']
     
     
