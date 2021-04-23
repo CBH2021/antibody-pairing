@@ -13,7 +13,6 @@ You code should output a file called `predictions.csv` in the following format:
 name,prediction
 prot1,.21
 prot2,.76
-...
 ```
 
 ## Benchmarking System

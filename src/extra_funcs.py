@@ -64,7 +64,7 @@ def one_hot_encode(Hchain, Lchain):
     Encodes the sequences with one-hot encoding
     """
     
-    encode_dic = get_encoding('../data/one-hot.txt')
+    encode_dic = get_encoding('one-hot.txt')
     
     one_hot_heavy = Hchain.apply(lambda x: appl_encoding(x, encode_dic))
     one_hot_light = Lchain.apply(lambda x: appl_encoding(x, encode_dic))
