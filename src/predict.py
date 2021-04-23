@@ -18,7 +18,7 @@ aligned = extra_funcs.align_abs(data.Hchain, data.Lchain)
 encoded = extra_funcs.one_hot_encode(aligned.Hchain_align, aligned.Lchain_align)
 
 # PREDICT
-modelfile = 'finalized_model.sav'
+modelfile = '../finalized_model.sav'
 loaded_model = joblib.load(filename)
 y_pred = loaded_model.predict_proba(encoded)
 
