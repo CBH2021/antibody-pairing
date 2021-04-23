@@ -1,8 +1,6 @@
 # Example Challenge
 
-This repository is a template for creating challenges. You can change this README to describe your challenge in detail.
-
-The participants will fork your challenge repository at the beginning of the hackathon.
+Fork this challenge repository as a starting template at the beginning of the hackathon.
 
 ## Challenge Aim
 
