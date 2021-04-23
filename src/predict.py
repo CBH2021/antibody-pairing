@@ -7,7 +7,7 @@ from . import extra_funcs
 
 # set up argument parsing (make sure these match those in config.yml)
 parser = argparse.ArgumentParser()
-parser.add_argument("--infile", type=str, default= , required=True)
+parser.add_argument("--infile", type=str, required=True)
 args = parser.parse_args()
 
 # READ DATA
