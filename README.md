@@ -10,9 +10,10 @@ The aim of this challenge is to predict heavy and light chain antibody pairing. 
 You code should output a file called `predictions.csv` in the following format:
 
 ```
-name,prediction
-prot1,.21
-prot2,.76
+prediction
+0.42
+0.475
+0.7
 ```
 
 ## Benchmarking System
