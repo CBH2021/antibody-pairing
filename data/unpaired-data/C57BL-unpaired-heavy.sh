@@ -1,0 +1,4 @@
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/json/Greiff_2017/Greiff_2017_OVA_mouse_4_PC_IGHM_IGHG_IGHA_OVA_mouse_4_ERX1826015_long_lived_plasma_cell_bone_marrow_iglblastn_IGHA.json.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/json/Greiff_2017/Greiff_2017_OVA_mouse_2_PC_IGHM_IGHG_IGHD_OVA_mouse_2_ERX1826006_long_lived_plasma_cell_bone_marrow_iglblastn_IGHD.json.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/json/Greiff_2017/Greiff_2017_HBsAg_mouse_4_PC_IGHM_IGHG_IGHD_HBsAg_mouse_4_ERX1825976_long_lived_plasma_cell_bone_marrow_iglblastn_IGHD.json.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/json/Greiff_2017/Greiff_2017_C57BL_mouse_1_PC_IGHM_IGHG_IGHG_C57BL-6_mouse_1_ERX1825985_long_lived_plasma_cell_bone_marrow_iglblastn_IGHG.json.gz

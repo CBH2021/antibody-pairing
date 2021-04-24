@@ -1,0 +1,4 @@
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/json/Greiff_2017/Greiff_2017_Balb_mouse_4_naive_B_cell_IGHM_Balb-c_mouse_4_ERX1825984_naive_B_cell_spleen_igblastn.json.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/json/Greiff_2017/Greiff_2017_Balb_mouse_3_naive_B_cell_IGHM_naive_B_cell_IGHM_Balb-c_mouse_3_ERX1825983_naive_B_cell_spleen_igblastn.json.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/json/Greiff_2017/Greiff_2017_Balb_mouse_1_naive_B_cell_IGHM_naive_B_cell_IGHM_Balb-c_mouse_1_ERX1825981_naive_B_cell_spleen_igblastn.json.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/json/Greiff_2017/Greiff_2017_Balb_mouse_2_naive_B_cell_IGHM_naive_B_cell_IGHM_Balb-c_mouse_2_ERX1825982_naive_B_cell_spleen_igblastn.json.gz
