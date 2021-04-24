@@ -1,0 +1,17 @@
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/Setliff_2019/SRR10313332_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/Setliff_2019/SRR10313335_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP006_IgMnegMBC_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP008_IgMneg_MBC_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP004_MBC_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP006_Total_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP003_Total_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP009_IgMneg_MBC_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP009_Total_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP003_MBC_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP008_Total_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP005_IgMnegMBC_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP004_Total_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/King_2020/BCP005_Total_scVDJ_filtered_contigs_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/Eccles_2020/SRR10358523_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/Eccles_2020/SRR10358524_paired.csv.gz
+wget http://opig.stats.ox.ac.uk/webapps/ngsdb/paired_csv/Eccles_2020/SRR10358525_paired.csv.gz
